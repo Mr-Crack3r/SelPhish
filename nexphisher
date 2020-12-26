@@ -9,7 +9,7 @@ user_interrupt(){
         printf "\e[0m\e[1;36m\t CTRL + C Pressed !!\n"
         sleep 2
         printf "\e[0m\n"
-        printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/htr-tech for more\e[0m\n"
+        printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/hMr-Crack3r for more\e[0m\n"
         printf "\e[0m\n"
         exit 1
 }
@@ -70,15 +70,19 @@ fi
 banner() {
 
 clear
-printf "\e[0m\n"
-printf "\e[0m\e[92m  _   _            \e[0m\e[93m _____  _     _     _                \e[0m\n"
-printf "\e[0m\e[92m | \ | |           \e[0m\e[93m|  __ \| |   (_)   | |               \e[0m\n"
-printf "\e[0m\e[92m |  \| | _____  __ \e[0m\e[93m| |__) | |__  _ ___| |__   ___ _ __  \e[0m\n"
-printf "\e[0m\e[92m | .   |/ _ \ \/ / \e[0m\e[93m|  ___/|  _ \| / __|  _ \ / _ \  __| \e[0m\n"
-printf "\e[0m\e[92m | |\  |  __/>  <  \e[0m\e[93m| |    | | | | \__ \ | | |  __/ |    \e[0m\n"
-printf "\e[0m\e[92m |_| \_|\___/_/\_\ \e[0m\e[93m|_|    |_| |_|_|___/_| |_|\___|_| \e[0m\e[1;44m[V 1.0]\e[0m\n"
-printf "\e[0m\n"
-printf " \e[0m\e[1;41m Advanced Phishing Tool with 30+ Templates  [BY : HTR-TECH ]\e[0m\n"
+
+  _________      .__ __________.__    .__       .__                  
+
+ /   _____/ ____ |  |\______   \  |__ |__| _____|  |__   ___________ 
+
+ \_____  \_/ __ \|  | |     ___/  |  \|  |/  ___/  |  \_/ __ \_  __ \
+
+ /        \  ___/|  |_|    |   |   Y  \  |\___ \|   Y  \  ___/|  | \/
+
+/_______  /\___  >____/____|   |___|  /__/____  >___|  /\___  >__|   
+
+        \/     \/                   \/        \/     \/     \/       
+printf " \e[0m\e[1;41m Advanced Phishing Tool with 30+ Templates  [BY : MR-CRACK3R ]\e[0m\n"
 printf "\e[0m\n"
 
 }
@@ -87,13 +91,20 @@ smallbanner() {
 
 clear
 printf "\e[0m\n"
-printf "\e[0m\e[93m _  _ ___ _   _    ___  _  _ ___ ___ _  _ ___  ___ \e[0m\n"
-printf "\e[0m\e[93m |\ | |__  \_/    |___] |__|  |  |__ |__| |__ |__/ \e[0m\n"
-printf "\e[0m\e[93m | \| |__ _/ \_   |    _|  | _|_ ___||  |_|__ | \_ \e[0m\e[1;46m[V 1.0]\e[0m\n"
+printf 
+  _________      .__ __________.__    .__       .__                  
+ /   _____/ ____ |  |\______   \  |__ |__| _____|  |__   ___________ 
+ \_____  \_/ __ \|  | |     ___/  |  \|  |/  ___/  |  \_/ __ \_  __ \
+ /        \  ___/|  |_|    |   |   Y  \  |\___ \|   Y  \  ___/|  | \/
+/_______  /\___  >____/____|   |___|  /__/____  >___|  /\___  >__|   
+        \/     \/                   \/        \/     \/     \/       
+
+
+
 printf "\e[0m\n"
 printf "    \e[0m\e[1;44m Advanced Phishing Tool with 30+ Templates\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[91m    [\e[0m\e[96m BY \e[0m\e[91m: \e[0m\e[96mhttps://github.com/htr-tech \e[0m\e[91m] \e[0m\n"
+printf "\e[0m\e[91m    [\e[0m\e[96m BY \e[0m\e[91m: \e[0m\e[96mhttps://github.com/Mr-Crack3r \e[0m\e[91m] \e[0m\n"
 printf "\e[0m\n"
 
 }
